@@ -1,4 +1,3 @@
-
 ---
 title:  "github.io 블로그  첫 글"
 excerpt: "github.io 블로그 첫 글 작성해봅니다."
@@ -13,9 +12,9 @@ last_modified_at: 2019-04-13T08:06:00-05:00
 이 글의 제목은 {{ page.title }}이고
 마지막 수정 시간은 {{ page.last_modified_at }}이다.
 
-|title|excerpt|categories|
+|title|excerpt|categories|tags|
 |------|---|---|
-|"github.io 블로그  첫 글"|"github.io 블로그 첫 글 작성해봅니다."|Blog|
+|"github.io 블로그  첫 글"|"github.io 블로그 첫 글 작성해봅니다."|Blog|Blog|
 
 |title|excerpt|categories|
 |:---|---:|:---:|
