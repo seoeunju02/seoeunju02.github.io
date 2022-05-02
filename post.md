@@ -1,4 +1,4 @@
-* title: "github.io 블로그  첫 글"  
+# title: "github.io 블로그  첫 글"  
 
 |title|excerpt|categories|
 |------|---|---|
