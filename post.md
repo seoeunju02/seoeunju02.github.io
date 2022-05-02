@@ -11,6 +11,7 @@ last_modified_at: 2022-05-02T08:06:00-20:48
 좋은 글들을 작성해 보자.
 이 글의 제목은 {{ page.title }}이고
 마지막 수정 시간은 {{ page.last_modified_at }}이다.
+나는 [서은주](https://github.com/seoeunju02)이다
 ---------------------------------
 |title|excerpt|categories|tags|
 |------|---|---|
